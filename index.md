@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## 简        历
 
-You can use the [editor on GitHub](https://github.com/shenyong11/shenyong11.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shenyong11/shenyong11.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+简        历<br/>
+姓    名:	申勇<br/>
+性    别:	男<br/>
+出生年月:	1993/12<br/>
+籍    贯:	山西临汾<br/>
+学    历:	本科	<br/>
+移动电话:	13717604350	<br/>
+电子邮箱：	13717604350@163.com <br/>
+### 求职意向
+工作性质:	  全  职	<br/>
+期望职业:	WEB前端开发<br/>
+期望行业:	互联网/电子商务	<br/>
+工作地区:	北京<br/>
+期望薪资:	面议	<br/>
+目前状况:	我目前处于离职状态，可立即上岗
+### 自我评价
+快速构建高质量移动APP/PC页面，熟悉mvvm、mvc框架，熟练使用angularjs、vuejs、react以及ionic等框架，以及gulp、webpack等构件工具，提升代码的性能，后期使用charles、debuggap进行调试。
+### 培训经历
+北京八维研修学院	2015/2--2017/6
+### 项目经验
+#### 【项目一】	选座观影（web app）
+项目介绍:	是一款在线购票项目<br/>
+项目职责:	在项目中，采用webpack、vue-cli等搭建项目结构，使用HTML5+CSS3完成页面的布局，配置vuex、axios等模块，实现数据双向绑定，提高网站性能以及开发效率，使用weinre、charles等调试工具对项目进行进一步的优化与完善，并负责项目后期的维护与运行。
+#### 【项目二】	自游自在（PC）
+项目介绍:	旅游类的项目<br/>
+项目职责:	使用HTML5+CSS3完成页面的布局，用jQuery、iscroll和swiper等js库完成页面的效果，修复各浏览器之间的兼容问题，符合模块化开发的规范，利用localstorage、sessionstorage等数据存储方式将请求到的数据进行存储，减少代码的请求次数，提升用户体验。
+#### 【项目三】	闲钱往哪搁（Web App）
+项目介绍:	是一款投资理财APP<br/>
+项目职责:	使用ionic框架优化html、css和js的性能，在项目中，使用resolve方法解决数据加载过慢，页面数据无法渲染的问题，跳转路由携带参数，保证路由之间能够通信，实现数据的懒加载，提升页面的性能，gulp对代码进行编译压缩、md5加密，并且使用echarts对数据进行统计；
+#### 【项目四】	装出明星范（微信小程序）
+项目介绍:	是一款服装专卖的小程序<br/>
+项目职责:	利用微信开发者工具进行项目开发，使用request方法连接后台接口完成数据渲染，实现上拉加载功能、下拉刷新功能，跳转路由的过程中进行传参，完成扫码、支付、播放音频、转发、获取位置信息等功能。
+### 教育经历
+山西太原学院	计算机科学技术	2010/9--2014/7
